@@ -1,0 +1,24 @@
+{
+  "name": "node_js_profiling_test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarchenkoVladislav/node_js_profiling_test.git"
+  },
+  "author": "Vlsdislav Marchenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarchenkoVladislav/node_js_profiling_test/issues"
+  },
+  "homepage": "https://github.com/MarchenkoVladislav/node_js_profiling_test#readme",
+  "description": "",
+  "dependencies": {
+    "async": "^3.2.4",
+    "express": "^4.18.1"
+  }
+}

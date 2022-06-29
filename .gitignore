@@ -1,3 +1,7 @@
+.idea/
+
+.clinic/
+
 # Logs
 logs
 *.log
